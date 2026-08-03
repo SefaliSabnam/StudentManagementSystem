@@ -1,7 +1,7 @@
 #  Student Management System
 
 <p align="center">
-  <img src="Images/student-registration.png" alt="Student Management System" width="900">
+  <img src="./Images/student-registration.jpg" alt="Student Management System" width="900">
 </p>
 
 <p align="center">
@@ -198,7 +198,7 @@ StudentManagementDB
 ##  Create Account
 
 <p align="center">
-<img src="Images/create-account.png" width="900">
+<img src="./Images/create-account.jpg" width="900">
 </p>
 
 ---
@@ -206,7 +206,7 @@ StudentManagementDB
 ##  Login Page
 
 <p align="center">
-<img src="Images/login.png" width="900">
+<img src="./Images/login.jpg" width="900">
 </p>
 
 ---
@@ -214,7 +214,7 @@ StudentManagementDB
 ##  Dashboard
 
 <p align="center">
-<img src="Images/dashboard.png" width="900">
+<img src="./Images/dashboard.jpg" width="900">
 </p>
 
 ---
@@ -222,7 +222,7 @@ StudentManagementDB
 ##  Student Registration
 
 <p align="center">
-<img src="Images/student-registration.png" width="900">
+<img src="./Images/student-registration.jpg" width="900">
 </p>
 
 ---
@@ -230,7 +230,7 @@ StudentManagementDB
 ##  Student Preview
 
 <p align="center">
-<img src="Images/preview.png" width="900">
+<img src="./Images/preview.jpg" width="900">
 </p>
 
 ---
@@ -238,7 +238,7 @@ StudentManagementDB
 ##  Exported PDF
 
 <p align="center">
-<img src="Images/exported-pdf.png" width="900">
+<img src="./Images/exported-pdf.jpg" width="900">
 </p>
 
 ---
@@ -265,7 +265,7 @@ StudentManagementDB
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/StudentManagementSystem.git
+[(https://github.com/SefaliSabnam/StudentManagementSystem.git)]
 ```
 
 ---
@@ -354,9 +354,9 @@ You are free to use, modify, and distribute this project for educational and per
 
 **Sefali**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/SefaliSabnam
 
-LinkedIn: https://www.linkedin.com/in/yourprofile
+
 
 ---
 
