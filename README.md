@@ -1,17 +1,5 @@
 #  Student Management System
 
-##  Introduction
-
-The **Student Management System** is a desktop application developed using **C# Windows Forms (.NET Framework)** and **SQL Server**. It enables users to securely manage student records through complete CRUD operations with an intuitive interface. The application includes user authentication, live webcam photo capture, image browsing, student preview, and PDF export functionality. It integrates **ADO.NET**, **AForge.NET**, and **iTextSharp** to provide a practical, real-world desktop solution. This project demonstrates modern Windows desktop application development with a focus on usability, data management, and professional reporting.
-<p align="center">
-
-![C#](https://img.shields.io/badge/C%23-Windows%20Forms-blue?style=for-the-badge)
-![.NET Framework](https://img.shields.io/badge/.NET-Framework-purple?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-</p>
-
 ---
 
 #  Overview
@@ -21,6 +9,16 @@ The **Student Management System** is a desktop application developed using **C# 
 This project demonstrates the practical implementation of Windows Forms, ADO.NET, SQL Server integration, webcam handling, and PDF generation in a real-world desktop application.
 
 ---
+<p align="center">
+
+![C#](https://img.shields.io/badge/C%23-Windows%20Forms-blue?style=for-the-badge)
+![.NET Framework](https://img.shields.io/badge/.NET-Framework-purple?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</p>
+
+
 
 #  Features
 
