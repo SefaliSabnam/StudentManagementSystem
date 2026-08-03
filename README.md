@@ -17,7 +17,17 @@ This project demonstrates the practical implementation of Windows Forms, ADO.NET
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </p>
+---
 
+#  System Architecture
+
+The following architecture illustrates the overall workflow and layered design of the Student Management System, including the presentation layer, business logic, data access, SQL Server database, webcam integration, and PDF export functionality.
+
+<p align="center">
+    <img src="./Images/architecture.png" alt="Student Management System Architecture" width="1000"/>
+</p>
+
+---
 
 
 #  Features
@@ -237,6 +247,14 @@ StudentManagementDB
 <p align="center">
 <img src="./Images/exported-pdf.jpg" width="900">
 </p>
+---
+
+##  Final Exported PDF
+
+<p align="center">
+<img src="./Images/exported-pdf-final.jpg" width="900">
+</p>
+
 
 ---
 
