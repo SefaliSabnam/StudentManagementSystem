@@ -247,6 +247,14 @@ StudentManagementDB
 <p align="center">
 <img src="./Images/exported-pdf.jpg" width="900">
 </p>
+---
+
+##  Final Exported PDF
+
+<p align="center">
+<img src="./Images/exported-pdf-final.jpg" width="900">
+</p>
+
 
 ---
 
