@@ -1,18 +1,5 @@
 #  Student Management System
 
-<p align="center">
-  <img src="Images/student-registration.png" alt="Student Management System" width="900">
-</p>
-
-<p align="center">
-
-![C#](https://img.shields.io/badge/C%23-Windows%20Forms-blue?style=for-the-badge)
-![.NET Framework](https://img.shields.io/badge/.NET-Framework-purple?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-</p>
-
 ---
 
 #  Overview
@@ -22,6 +9,16 @@ The **Student Management System** is a desktop application developed using **C# 
 This project demonstrates the practical implementation of Windows Forms, ADO.NET, SQL Server integration, webcam handling, and PDF generation in a real-world desktop application.
 
 ---
+<p align="center">
+
+![C#](https://img.shields.io/badge/C%23-Windows%20Forms-blue?style=for-the-badge)
+![.NET Framework](https://img.shields.io/badge/.NET-Framework-purple?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</p>
+
+
 
 #  Features
 
@@ -198,7 +195,7 @@ StudentManagementDB
 ##  Create Account
 
 <p align="center">
-<img src="Images/create-account.png" width="900">
+<img src="./Images/create-account.jpg" width="900">
 </p>
 
 ---
@@ -206,7 +203,7 @@ StudentManagementDB
 ##  Login Page
 
 <p align="center">
-<img src="Images/login.png" width="900">
+<img src="./Images/login.jpg" width="900">
 </p>
 
 ---
@@ -214,7 +211,7 @@ StudentManagementDB
 ##  Dashboard
 
 <p align="center">
-<img src="Images/dashboard.png" width="900">
+<img src="./Images/dashboard.jpg" width="900">
 </p>
 
 ---
@@ -222,7 +219,7 @@ StudentManagementDB
 ##  Student Registration
 
 <p align="center">
-<img src="Images/student-registration.png" width="900">
+<img src="./Images/student-registration.jpg" width="900">
 </p>
 
 ---
@@ -230,7 +227,7 @@ StudentManagementDB
 ##  Student Preview
 
 <p align="center">
-<img src="Images/preview.png" width="900">
+<img src="./Images/preview.jpg" width="900">
 </p>
 
 ---
@@ -238,7 +235,7 @@ StudentManagementDB
 ##  Exported PDF
 
 <p align="center">
-<img src="Images/exported-pdf.png" width="900">
+<img src="./Images/exported-pdf.jpg" width="900">
 </p>
 
 ---
@@ -265,7 +262,7 @@ StudentManagementDB
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/StudentManagementSystem.git
+[(https://github.com/SefaliSabnam/StudentManagementSystem.git)]
 ```
 
 ---
@@ -354,9 +351,9 @@ You are free to use, modify, and distribute this project for educational and per
 
 **Sefali**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/SefaliSabnam
 
-LinkedIn: https://www.linkedin.com/in/yourprofile
+
 
 ---
 
