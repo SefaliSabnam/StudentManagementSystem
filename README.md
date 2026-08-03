@@ -82,7 +82,7 @@ This project demonstrates the practical implementation of Windows Forms, ADO.NET
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 | Technology | Description |
 |------------|-------------|
@@ -93,7 +93,7 @@ This project demonstrates the practical implementation of Windows Forms, ADO.NET
 | ADO.NET | Database Connectivity |
 | AForge.NET | Webcam Integration |
 | iTextSharp | PDF Generation |
-| Visual Studio 2022 | IDE |
+| Visual Studio 2026 | IDE |
 
 ---
 
@@ -272,7 +272,7 @@ git clone https://github.com/yourusername/StudentManagementSystem.git
 
 ## 2. Open Project
 
-Open the solution in **Visual Studio 2022**.
+Open the solution in **Visual Studio 2026**.
 
 ---
 
