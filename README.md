@@ -1,10 +1,6 @@
 #  Student Management System
 
-<p align="center">
-  <img src="./Images/student-registration.jpg" alt="Student Management System" width="900">
-</p>
-
-## 📖 Introduction
+##  Introduction
 
 The **Student Management System** is a desktop application developed using **C# Windows Forms (.NET Framework)** and **SQL Server**. It enables users to securely manage student records through complete CRUD operations with an intuitive interface. The application includes user authentication, live webcam photo capture, image browsing, student preview, and PDF export functionality. It integrates **ADO.NET**, **AForge.NET**, and **iTextSharp** to provide a practical, real-world desktop solution. This project demonstrates modern Windows desktop application development with a focus on usability, data management, and professional reporting.
 <p align="center">
