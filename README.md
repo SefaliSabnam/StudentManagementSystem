@@ -27,6 +27,16 @@ The following architecture illustrates the overall workflow and layered design o
     <img src="./Images/architecture.png" alt="Student Management System Architecture" width="1000"/>
 </p>
 
+
+The Student Management System follows a **3-Layer Architecture**, separating the application into the **Frontend**, **Backend**, and **Database** layers to improve maintainability, scalability, and code organization.
+
+| Layer | Technology | Responsibilities |
+|--------|------------|------------------|
+| 🖥️ **Frontend** | C# Windows Forms | Login, Sign Up, Dashboard, Student Registration, Student Preview, User Interface |
+| ⚙️ **Backend** | C# (.NET Framework) | Business Logic, CRUD Operations, Input Validation, Webcam Integration (AForge.NET), PDF Generation (iTextSharp) |
+| 🔗 **Data Access** | ADO.NET | SQL Connection, Execute Queries, Data Retrieval, Data Manipulation |
+| 🗄️ **Database** | SQL Server Express | Users Table, Students Table, Secure Data Storage |
+
 ---
 
 
