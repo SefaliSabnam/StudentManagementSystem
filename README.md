@@ -32,13 +32,31 @@ The Student Management System follows a **3-Layer Architecture**, separating the
 
 | Layer | Technology | Responsibilities |
 |--------|------------|------------------|
-| 🖥️ **Frontend** | C# Windows Forms | Login, Sign Up, Dashboard, Student Registration, Student Preview, User Interface |
-| ⚙️ **Backend** | C# (.NET Framework) | Business Logic, CRUD Operations, Input Validation, Webcam Integration (AForge.NET), PDF Generation (iTextSharp) |
-| 🔗 **Data Access** | ADO.NET | SQL Connection, Execute Queries, Data Retrieval, Data Manipulation |
-| 🗄️ **Database** | SQL Server Express | Users Table, Students Table, Secure Data Storage |
+|  **Frontend** | C# Windows Forms | Login, Sign Up, Dashboard, Student Registration, Student Preview, User Interface |
+|  **Backend** | C# (.NET Framework) | Business Logic, CRUD Operations, Input Validation, Webcam Integration (AForge.NET), PDF Generation (iTextSharp) |
+|  **Data Access** | ADO.NET | SQL Connection, Execute Queries, Data Retrieval, Data Manipulation |
+|  **Database** | SQL Server Express | Users Table, Students Table, Secure Data Storage |
 
 ---
+###  Layer Communication
 
+```text
+                User
+                  │
+                  ▼
+       Windows Forms (Frontend)
+                  │
+                  ▼
+        C# Business Logic
+                  │
+                  ▼
+          ADO.NET Layer
+                  │
+                  ▼
+       SQL Server Express
+```
+
+---
 
 #  Features
 
